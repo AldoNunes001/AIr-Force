@@ -1,0 +1,786 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credilink_webservice>
+	<consulta_ccf619>
+		<restricoes_bancarias>
+			<quantidade>0</quantidade>
+			<restricao>
+				<mensagem>NAO EXISTEM RESTRICOES BANCARIAS PARA ESSE CPF/CNPJ</mensagem>
+			</restricao>
+		</restricoes_bancarias>
+		<info_restricao>* NADA CONSTA *</info_restricao>
+		<nome_completo>TECHBIZ FORENSE DIGITAL LTDA</nome_completo>
+		<statusReceita>ATIVA</statusReceita>
+		<pais_nascimento>BRASIL</pais_nascimento>
+		<estado_nascimento></estado_nascimento>
+		<cidade_nascimento></cidade_nascimento>
+		<siglacidade></siglacidade>
+		<conjuge_cpf></conjuge_cpf>
+		<conjuge_nome></conjuge_nome>
+		<sexo></sexo>
+		<estadocivil></estadocivil>
+		<cpf>05757597000137</cpf>
+		<filiacao></filiacao>
+		<identidade></identidade>
+		<data_nascimento></data_nascimento>
+		<dt_nascimento></dt_nascimento>
+		<datafundacao>20030702</datafundacao>
+		<signo></signo>
+		<codigo_consulta>3414517470</codigo_consulta>
+		<consultas_realizadas>4205</consultas_realizadas>
+		<restricoes_lojistas>
+			<quantidade>0</quantidade>
+			<restricao>
+				<mensagem>NAO EXISTEM RESTRICOES LOJISTAS PARA ESSE CPF/CNPJ</mensagem>
+			</restricao>
+		</restricoes_lojistas>
+		<cheques_pre_datados>
+			<quantidade>0</quantidade>
+			<cheque>
+				<emissao></emissao>
+				<banco></banco>
+				<numerocheque></numerocheque>
+				<vencimento></vencimento>
+				<valor></valor>
+				<cliente></cliente>
+			</cheque>
+		</cheques_pre_datados>
+		<alertas>
+			<quantidade>0</quantidade>
+			<alerta>
+				<mensagem>NAO EXISTEM ALERTAS PARA ESTE CPF/CNPJ</mensagem>
+			</alerta>
+		</alertas>
+	</consulta_ccf619>
+	<consulta_telefone_proprietario>
+		<telefone>
+			<contador>1</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>21980369493</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>0</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>2</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>21980369494</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>5</statustelefone>
+			<atualizacao>CAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>1</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>3</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>21981427675</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>0</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>4</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>31991026789</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>0</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>5</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>6134688580</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>QD CA</endereco>
+			<numero>0</numero>
+			<complemento>BL A CENTRO DE ATIVIDADES SL 245</complemento>
+			<bairro>SETOR DE HABITACOES INDIVIDUAIS NORTE</bairro>
+			<cep>71503501</cep>
+			<cidade>BRASILIA</cidade>
+			<uf>DF</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>OI</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>6</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>6134688585</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>QD CA</endereco>
+			<numero>0</numero>
+			<complemento>BL A CENTRO DE ATIVIDADES SL 245</complemento>
+			<bairro>SETOR DE HABITACOES INDIVIDUAIS NORTE</bairro>
+			<cep>71503501</cep>
+			<cidade>BRASILIA</cidade>
+			<uf>DF</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>OI</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>7</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>6134688587</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>QD CA</endereco>
+			<numero>0</numero>
+			<complemento>BL A CENTRO DE ATIVIDADES SL 245</complemento>
+			<bairro>SETOR DE HABITACOES INDIVIDUAIS NORTE</bairro>
+			<cep>71503501</cep>
+			<cidade>BRASILIA</cidade>
+			<uf>DF</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>OI</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>8</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>6134688600</telefone>
+			<dt_istalacao>14/04/2014</dt_istalacao>
+			<endereco> QNM 38 CONJUNTO E LOTE 26</endereco>
+			<numero>26</numero>
+			<complemento></complemento>
+			<bairro>TAGUATINGA NORTE TAGUATINGA </bairro>
+			<cep>72145805</cep>
+			<cidade>BRASILIA</cidade>
+			<uf>DF</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>VIVO</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>9</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>61981824841</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>0</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+		<telefone>
+			<contador>10</contador>
+			<nome>TECHBIZ FORENSE DIGITAL SA</nome>
+			<telefone>61981824881</telefone>
+			<dt_istalacao>27/07/2016</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>280</numero>
+			<complemento>CONJ 906 E 907</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>05757597000137</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>0</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>TIM</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp>0</whatsapp>
+			<estadocivil></estadocivil>
+			<tipocobranca></tipocobranca>
+		</telefone>
+	</consulta_telefone_proprietario>
+	<consulta_emails_proprietario>
+		<emails>daviren@superig.com.br</emails>
+	</consulta_emails_proprietario>
+	<parentes></parentes>
+	<vizinhos>
+		<telefone>
+			<contador>1</contador>
+			<nome>ELISANGELA DE SOUZA SIQUEIRA</nome>
+			<telefone>1136728317</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>281</numero>
+			<complemento></complemento>
+			<bairro>VL OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>08636565600</cpfcnpj>
+			<sexo>F</sexo>
+			<mae>MARIA ELIZENA DE SOUZA SIQUEIRA</mae>
+			<nasc>10/03/1986</nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>5</statustelefone>
+			<atualizacao>CAT</atualizacao>
+			<operadora>VIVO</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>2</contador>
+			<nome>OFICINA DA IMAGEM LTDA</nome>
+			<telefone>1126198192</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CJ 115</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>00540554000181</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>3</contador>
+			<nome>OFICINA INTERATIVA SOLUCOES DIGITAIS LTDA</nome>
+			<telefone>1126389079</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>RUA HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CJ 115</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>00540554000181</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>4</contador>
+			<nome>BASPAR PARTICIPACOES E EMPREENDIMENTOS LTDA</nome>
+			<telefone>1138454776</telefone>
+			<dt_istalacao>11/12/1976</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CJ 65</complemento>
+			<bairro>VL OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>60473402000135</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>VIVO</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>5</contador>
+			<nome>MRS PROFESSIONAL ACCESS SC LTDA</nome>
+			<telefone>1135772379</telefone>
+			<dt_istalacao>28/03/2015</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CONJ 51 52</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>04633851000475</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>6</contador>
+			<nome>MRS PROFESSIONAL ACCESS SC LTDA</nome>
+			<telefone>1135772369</telefone>
+			<dt_istalacao>28/03/2015</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CONJ 51 52</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>04633851000475</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>7</contador>
+			<nome>MRS PROFESSIONAL ACCESS SC LTDA</nome>
+			<telefone>1135772354</telefone>
+			<dt_istalacao>28/03/2015</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CONJ 51 52</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>04633851000475</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>5</statustelefone>
+			<atualizacao>CAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>8</contador>
+			<nome>MRS PROFESSIONAL ACCESS SC LTDA</nome>
+			<telefone>1135772357</telefone>
+			<dt_istalacao>28/03/2015</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CONJ 51 52</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>04633851000475</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>5</statustelefone>
+			<atualizacao>CAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>9</contador>
+			<nome>MRS PROFESSIONAL ACCESS SC LTDA</nome>
+			<telefone>1135772375</telefone>
+			<dt_istalacao>28/03/2015</dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento>CONJ 51 52</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>04633851000475</cpfcnpj>
+			<sexo></sexo>
+			<mae></mae>
+			<nasc></nasc>
+			<titulo_eleitor></titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>EMBRATEL</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+		<telefone>
+			<contador>10</contador>
+			<nome>ALESSANDRA NAPOLI LOPES</nome>
+			<telefone>1138427092</telefone>
+			<dt_istalacao></dt_istalacao>
+			<endereco>R HELENA</endereco>
+			<numero>285</numero>
+			<complemento></complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04552050</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+			<cpfcnpj>25694678800</cpfcnpj>
+			<sexo>F</sexo>
+			<mae>GISELDA P NAPOLI</mae>
+			<nasc>12/04/1971</nasc>
+			<titulo_eleitor>184762910108</titulo_eleitor>
+			<statustelefone>1</statustelefone>
+			<atualizacao>SAT</atualizacao>
+			<operadora>VIVO</operadora>
+			<procon>(NAO TEM)</procon>
+			<emails></emails>
+			<whatsapp></whatsapp>
+		</telefone>
+	</vizinhos>
+	<dados_sociedades></dados_sociedades>
+	<veiculos></veiculos>
+	<obito></obito>
+	<moradores></moradores>
+	<comercial></comercial>
+	<iptu></iptu>
+	<trabalho></trabalho>
+	<escolaridade></escolaridade>
+	<outros_contatos></outros_contatos>
+	<rendapresumida></rendapresumida>
+	<pessoa_politicamente_exposta></pessoa_politicamente_exposta>
+	<dados_empresa>
+		<cnpj>05757597000137</cnpj>
+		<razao_social>TECHBIZ FORENSE DIGITAL LTDA</razao_social>
+		<nome_fantasia></nome_fantasia>
+		<endereco>RUA OLIMPIADAS</endereco>
+		<numero>205</numero>
+		<complemento>SALA 436</complemento>
+		<bairro>VILA OLIMPIA</bairro>
+		<cep>04551000</cep>
+		<cidade>SAO PAULO</cidade>
+		<uf>SP</uf>
+		<situacao>ATIVA</situacao>
+		<motivo_situacao></motivo_situacao>
+		<data_abertura>02/07/2003</data_abertura>
+		<ramo_atividade>8211300</ramo_atividade>
+		<desc_ramo_atividade>SERVICOS COMBINADOS DE ESCRITORIO E APOIO ADMINISTRATIVO</desc_ramo_atividade>
+		<natureza>2062</natureza>
+		<desc_naturesa>SOCIEDADE EMPRESARIA LIMITADA</desc_naturesa>
+		<matriz_filial>MATRIZ</matriz_filial>
+		<porte_empresa>DEMAIS</porte_empresa>
+		<capital_social>600000.00</capital_social>
+		<email_empresa>daviren@superig.com.br</email_empresa>
+		<cnaes_secundarios></cnaes_secundarios>
+		<datasituacaocadastral>02/07/2003</datasituacaocadastral>
+		<mei></mei>
+	</dados_empresa>
+	<enderecos_comerciais></enderecos_comerciais>
+	<outros_enderecos>
+		<endereco>
+			<contador>1</contador>
+			<endereco>RUA OLIMPIADAS</endereco>
+			<numero>205</numero>
+			<complemento>SALA 436</complemento>
+			<bairro>VILA OLIMPIA</bairro>
+			<cep>04551000</cep>
+			<cidade>SAO PAULO</cidade>
+			<uf>SP</uf>
+		</endereco>
+	</outros_enderecos>
+	<dataRegistroCredilink>17-07-2024</dataRegistroCredilink>
+	<consulta_telefone_referencia></consulta_telefone_referencia>
+	<consulta_bancos>
+		<quantidade>0</quantidade>
+	</consulta_bancos>
+	<rendapj>
+		<sequencial>1</sequencial>
+		<porte>DEMAIS EMPRESA</porte>
+		<tipoimposto></tipoimposto>
+		<totalfuncionarios>14</totalfuncionarios>
+		<qtdfuncmaior5sal>NÃODIVULGADO</qtdfuncmaior5sal>
+		<qtdfuncmenor5sal>NÃODIVULGADO</qtdfuncmenor5sal>
+	</rendapj>
+	<empresa>
+		<cnpj>05757597000137</cnpj>
+		<dt.inicio>20030702</dt.inicio>
+		<razaosocial>TECHBIZ FORENSE DIGITAL LTDA</razaosocial>
+		<endereco>RUA OLIMPIADAS</endereco>
+		<numero>205</numero>
+		<complemento>SALA 436</complemento>
+		<bairro>VILA OLIMPIA</bairro>
+		<cidade>SAO PAULO</cidade>
+		<cep>04551000</cep>
+		<uf>SP</uf>
+		<siglacidade>SPO</siglacidade>
+		<nome_fantasia></nome_fantasia>
+		<cnae>8211300</cnae>
+		<desc_cnae>SERVICOS COMBINADOS DE ESCRITORIO E APOIO ADMINISTRATIVO</desc_cnae>
+		<situacao>ATIVA</situacao>
+		<tipo_filial>MATRIZ</tipo_filial>
+		<cnaes_secundarios></cnaes_secundarios>
+	</empresa>
+	<socios>
+		<sequencial>1</sequencial>
+		<nomesocio>RAFAEL VELASQUEZ SAAVEDRA DA SILVA</nomesocio>
+		<dtiniciosocio>20171023</dtiniciosocio>
+		<enderecosocio>R CANARIO|EDI CISNE BRANCO</enderecosocio>
+		<numerosocio>917</numerosocio>
+		<complementosocio>AP Apartamento 151</complementosocio>
+		<cepsocio></cepsocio>
+		<bairrosocio>NAO INFORMADO</bairrosocio>
+		<cidadesocio>NAO INFORMADO</cidadesocio>
+		<ufsocio>SP</ufsocio>
+		<siglacidade></siglacidade>
+		<cpfsocio>01356010610</cpfsocio>
+		<cargosociedade>SOCIO</cargosociedade>
+		<entradasociedade>23/10/2017</entradasociedade>
+		<participacaosociedade>22</participacaosociedade>
+		<datasociedade></datasociedade>
+	</socios>
+	<socios>
+		<sequencial>2</sequencial>
+		<nomesocio>JAIME RODRIGUES BARBOSA NETO</nomesocio>
+		<dtiniciosocio>20160908</dtiniciosocio>
+		<enderecosocio>AV DAS ACACIAS DA PENISULA</enderecosocio>
+		<numerosocio>150</numerosocio>
+		<complementosocio>AP 806</complementosocio>
+		<cepsocio>22776000</cepsocio>
+		<bairrosocio>BARRA DA TIJUCA</bairrosocio>
+		<cidadesocio>RIO DE JANEIRO</cidadesocio>
+		<ufsocio>RJ</ufsocio>
+		<siglacidade>RJO</siglacidade>
+		<cpfsocio>03770139607</cpfsocio>
+		<cargosociedade>SOCIO ADMINISTRADOR</cargosociedade>
+		<entradasociedade>08/09/2016</entradasociedade>
+		<participacaosociedade>49</participacaosociedade>
+		<datasociedade></datasociedade>
+	</socios>
+	<socios>
+		<sequencial>3</sequencial>
+		<nomesocio>MARCIO JOSE ROSA GOMES</nomesocio>
+		<dtiniciosocio>20190830</dtiniciosocio>
+		<enderecosocio>R LAURO MULLER</enderecosocio>
+		<numerosocio>66</numerosocio>
+		<complementosocio>AP 1102</complementosocio>
+		<cepsocio>22290160</cepsocio>
+		<bairrosocio>BOTAFOGO</bairrosocio>
+		<cidadesocio>RIO DE JANEIRO</cidadesocio>
+		<ufsocio>RJ</ufsocio>
+		<siglacidade>RJO</siglacidade>
+		<cpfsocio>47322497104</cpfsocio>
+		<cargosociedade>SOCIO</cargosociedade>
+		<entradasociedade>30/08/2019</entradasociedade>
+		<participacaosociedade>22</participacaosociedade>
+		<datasociedade></datasociedade>
+	</socios>
+	<socios>
+		<sequencial>4</sequencial>
+		<nomesocio>GIOVANI THIBAU CHRISTOFARO</nomesocio>
+		<dtiniciosocio>20060904</dtiniciosocio>
+		<enderecosocio>SHTN TR</enderecosocio>
+		<numerosocio></numerosocio>
+		<complementosocio>LT 02 BL D APT 409P</complementosocio>
+		<cepsocio>70800210</cepsocio>
+		<bairrosocio>ASA NORTE</bairrosocio>
+		<cidadesocio>BRASILIA</cidadesocio>
+		<ufsocio>DF</ufsocio>
+		<siglacidade>BSA</siglacidade>
+		<cpfsocio>68000367653</cpfsocio>
+		<cargosociedade>SOCIO ADMINISTRADOR</cargosociedade>
+		<entradasociedade>04/09/2006</entradasociedade>
+		<participacaosociedade>49</participacaosociedade>
+		<datasociedade></datasociedade>
+	</socios>
+	<socios>
+		<sequencial>5</sequencial>
+		<nomesocio>LUCIANA BISPO DA SILVA GALAO</nomesocio>
+		<dtiniciosocio>20171023</dtiniciosocio>
+		<enderecosocio></enderecosocio>
+		<numerosocio></numerosocio>
+		<complementosocio></complementosocio>
+		<cepsocio></cepsocio>
+		<bairrosocio></bairrosocio>
+		<cidadesocio></cidadesocio>
+		<ufsocio></ufsocio>
+		<siglacidade></siglacidade>
+		<cpfsocio>84421630187</cpfsocio>
+		<cargosociedade>SOCIO</cargosociedade>
+		<entradasociedade>23/10/2017</entradasociedade>
+		<participacaosociedade>22</participacaosociedade>
+		<datasociedade></datasociedade>
+	</socios>
+	<consultas_realizadas>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 3414517470 S/R</codigo_credilink>
+			<datahora>29/07/2024 18:23:56</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 238179725 S/R</codigo_credilink>
+			<datahora>26/07/2024 13:53:17</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 1126086939 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:37</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 4198698779 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:31</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 8795543874 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:13</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 119863721 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:10:47</datahora>
+		</consulta>
+	</consultas_realizadas>
+	<passagem>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 3414517470 S/R</codigo_credilink>
+			<datahora>29/07/2024 18:23:56</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 238179725 S/R</codigo_credilink>
+			<datahora>26/07/2024 13:53:17</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 1126086939 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:37</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 4198698779 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:31</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 8795543874 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:13:13</datahora>
+		</consulta>
+		<consulta>
+			<codigo_credilink>WEBSERVICE INTEGRACAO - No.: 119863721 S/R</codigo_credilink>
+			<datahora>26/07/2024 11:10:47</datahora>
+		</consulta>
+	</passagem>
+</credilink_webservice>

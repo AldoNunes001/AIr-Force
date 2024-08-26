@@ -1,0 +1,111 @@
+[
+    {
+        "sinapses.pessoa": [
+            {
+                "pessoa.cpf": "11111111111",
+                "pessoa.fullname": "Jose Qual Couve Ira",
+                "sinapses.vinculo": [
+                    {
+                        "valor": 10000000,
+                        "data": "24/08/22",
+                        "documento": "#NULO#",
+                        "recibo": "#NULO#",
+                        "especie": "Transferência eletrônica",
+                        "natureza": "FINANCEIRO",
+                        "origem": "Recursos de partido político",
+                        "fonte": "FUNDO PARTIDARIO",
+                        "tipo": "1",
+                        "data_cadastro": "18/10/22",
+                        "vinculo.rotulo": "ADESIVO PERFURADO MEDINDO 40X20CM· 4/0 CORES",
+                        "descricao": "Publicidade por adesivos",
+                        "natureza_estimavel": "1",
+                        "vinculo.reverso": null
+                    }
+                ]
+            },
+            {
+                "pessoa.cpf": "33333333333",
+                "pessoa.fullname": "Terezinha de AbreCampos Tadeu",
+                "sinapses.vinculo": [
+                    {
+                        "valor": 3000000,
+                        "data": "10/10/22",
+                        "documento": "#NULO#",
+                        "recibo": "#NULO#",
+                        "especie": "Transferência eletrônica",
+                        "natureza": "FINANCEIRO",
+                        "origem": "Recursos de pessoas físicas",
+                        "fonte": "OUTROS RECURSOS",
+                        "tipo": "1",
+                        "data_cadastro": "10/10/22",
+                        "vinculo.rotulo": "#NULO#",
+                        "descricao": "#NULO#",
+                        "natureza_estimavel": "#NULO#",
+                        "vinculo.reverso": null
+                    }
+                ]
+            },
+            {
+                "pessoa.cpf": "44444444444",
+                "pessoa.fullname": "Jairinho de Matuza Sjyld",
+                "sinapses.vinculo": [
+                    {
+                        "valor": 1800000,
+                        "data": "13/10/22",
+                        "documento": "#NULO#",
+                        "recibo": "#NULO#",
+                        "especie": "Transferência eletrônica",
+                        "natureza": "FINANCEIRO",
+                        "origem": "Recursos de pessoas físicas",
+                        "fonte": "OUTROS RECURSOS",
+                        "tipo": "1",
+                        "data_cadastro": "13/10/22",
+                        "vinculo.rotulo": "#NULO#",
+                        "descricao": "#NULO#",
+                        "natureza_estimavel": "#NULO#",
+                        "vinculo.reverso": null
+                    }
+                ]
+            }
+        ],
+        "sinapses.candidato": [
+            {
+                "candidato.ano_da_eleicao": 2022,
+                "candidato.tipo_da_eleicao": "ORDINÁRIA",
+                "candidato.descricao_da_eleicao": "Eleição Geral Federal 2022",
+                "candidato.data_da_eleicao": "02/10/22",
+                "candidato.unidade_eleitoral": "BRASIL",
+                "candidato.turno_da_eleicao": 2,
+                "candidato.cargo_eleitoral": "Presidente",
+                "candidato.numero_do_candidato": 3333,
+                "candidato.partido_eleitoral": "PARTIDO A",
+                "sinapses.empresa": [
+                    {
+                        "empresa.cnpj": "1,11111E+13",
+                        "empresa.razao_social": "DIREÇÃO NACIONAL",
+                        "empresa.razao_social1": "PARTIDO A",
+                        "empresa.cnae": "94928",
+                        "sinapses.vinculo": [
+                            {
+                                "valor": 10000000,
+                                "data": "24/08/22",
+                                "documento": "#NULO#",
+                                "recibo": "#NULO#",
+                                "especie": "Transferência eletrônica",
+                                "natureza": "FINANCEIRO",
+                                "origem": "Recursos de partido político",
+                                "fonte": "FUNDO PARTIDARIO",
+                                "tipo": "1",
+                                "data_cadastro": "18/10/22",
+                                "vinculo.rotulo": "ADESIVO PERFURADO MEDINDO 40X20CM· 4/0 CORES",
+                                "descricao": "Publicidade por adesivos",
+                                "natureza_estimavel": "1",
+                                "vinculo.reverso": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
