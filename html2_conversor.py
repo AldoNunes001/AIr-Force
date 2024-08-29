@@ -16,7 +16,7 @@ load_dotenv()
 base_model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # Lê o conteúdo do arquivo HTML como texto
-html2_input_content = read_file_as_text("./data/input_dados-2.htm")
+html2_input_content = read_file_as_text("./data/dados_html2.htm")
 
 # Define o template do prompt com as mensagens do sistema e do usuário
 prompt = ChatPromptTemplate.from_messages(

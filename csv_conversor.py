@@ -16,7 +16,7 @@ load_dotenv()
 base_model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # Lê o conteúdo do arquivo CSV como texto
-csv_input_content = read_file_as_text("./data/input_dados.csv")
+csv_input_content = read_file_as_text("./data/dados_csv.csv")
 
 # Define o template do prompt com as mensagens do sistema e do usuário
 prompt = ChatPromptTemplate.from_messages(
