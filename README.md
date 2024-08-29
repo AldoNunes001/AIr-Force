@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. **Preparar o Arquivo de Entrada**
-Coloque o arquivo de entrada que deseja processar na pasta `python data` do projeto.
+Coloque o arquivo de entrada que deseja processar na pasta `data` do projeto.
 
 ### 3. **Configurar o Caminho do Arquivo de Entrada**
 Abra o arquivo zExtractor.py e defina a variável input_file_path com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta data. Por exemplo:
@@ -70,7 +70,7 @@ python zExtractor.py
 ```
 
 ### 5. **Verificar o Resultado**
-O resultado será gerado na pasta `python output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `python _output.json`. Por exemplo, se o arquivo de entrada se chamar `python seu_arquivo_de_entrada.ext`, o resultado estará em `python output/seu_arquivo_de_entrada_output.json`.
+O resultado será gerado na pasta `output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `_output.json`. Por exemplo, se o arquivo de entrada se chamar `seu_arquivo_de_entrada.ext`, o resultado estará em `output/seu_arquivo_de_entrada_output.json`.
 
 ## Integrantes da Equipe
 1. Aldo Nunes - https://github.com/AldoNunes001
