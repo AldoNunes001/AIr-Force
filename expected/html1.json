@@ -1,0 +1,47 @@
+[
+    {
+        "sinapses.Empresa_Jucesp": [
+            {
+                "empresa_jucesp.nome": "TECHBIZ FORENSE DIGITAL LTDA.",
+                "empresa_jucesp.nire": "35218345517",
+                "empresa_jucesp.uf": "SAO PAULO"
+            }
+        ]
+    },
+    {
+        "sinapses.Empresa_Jucesp": [
+            {
+                "empresa_jucesp.nome": "TECHBIZ CONSULTORIA EM INTELIGENCIA EMPRESARIAL LTDA",
+                "empresa_jucesp.nire": "35232419425",
+                "empresa_jucesp.uf": "SAO CAETANO DO SUL"
+            }
+        ]
+    },
+    {
+        "sinapses.Empresa_Jucesp": [
+            {
+                "empresa_jucesp.nome": "TECHBIZ CONTABIL LTDA",
+                "empresa_jucesp.nire": "35263748889",
+                "empresa_jucesp.uf": "SAO PAULO"
+            }
+        ]
+    },
+    {
+        "sinapses.Empresa_Jucesp": [
+            {
+                "empresa_jucesp.nome": "TECHBIZ FORENSE DIGITAL S.A.",
+                "empresa_jucesp.nire": "35300366301",
+                "empresa_jucesp.uf": "SAO PAULO"
+            }
+        ]
+    },
+    {
+        "sinapses.Empresa_Jucesp": [
+            {
+                "empresa_jucesp.nome": "TECHBIZ CONSULTORIA EM INTELIGENCIA EMPRESARIAL LTDA",
+                "empresa_jucesp.nire": "35630211956",
+                "empresa_jucesp.uf": "SAO PAULO"
+            }
+        ]
+    }
+]

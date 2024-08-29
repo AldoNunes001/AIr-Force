@@ -16,11 +16,11 @@ load_dotenv()
 base_model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # Caminho do arquivo de entrada
-# input_file_path = "./data/dados_html1.htm"
-input_file_path = "./data/dados_html2.htm"
+input_file_path = "./data/dados_html1.htm"
+# input_file_path = "./data/dados_html2.htm"
 # input_file_path = "./data/dados_json.json"
-# input_file_path = "./data/dados_csv.csv"
 # input_file_path = "./data/dados_xml.xml"
+# input_file_path = "./data/dados_csv.csv"
 
 # Lê o conteúdo do arquivo HTML como texto
 input_content = read_file_as_text(input_file_path)

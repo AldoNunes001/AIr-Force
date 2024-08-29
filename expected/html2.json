@@ -1,0 +1,28 @@
+[
+    {
+        'sinapses.Empresa': [
+            {
+                'empresa.nome_fantasia': 'TECHBIZ FORENSE DIGITAL LTDA.',
+                'empresa.tipo_de_ie': 'SOCIEDADE LIMITADA',
+                'empresa.data_inicio_de_atividade': '04/06/2003',
+                'empresa.cnpj': '05.757.597/0001-37',
+                'empresa.nire': '35218345517',
+                'empresa.data_de_fundacao': '02/07/2003',
+                'empresa.objeto_social': 'Desenvolvimento e licenciamento de programas de computador customizáveis\nConsultoria em tecnologia da informação\nTratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet\nTreinamento em informática',
+                'empresa.capital': 'R$ 600.000,00 (Seiscentos Mil Reais)',
+                'sinapses.Endereco': [
+                    {
+                        'endereco.logradouro': 'Rua Olimpiadas',
+                        'endereco.numero': '205', 
+                        'endereco.bairro': 'Vila Olimpia', 
+                        'endereco.complemento': 'Sala 436', 
+                        'endereco.cidade': 'Sao Paulo', 
+                        'endereco.cep': '04551-000', 
+                        'endereco.regiao': 'SP', 
+                        'endereco.nome': 'TECHBIZ FORENSE DIGITAL LTDA.'
+                     }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+   {
+      "sinapses.empresa":[
+         {
+            "empresa.cnpj":"05.757.597/0001-37",
+            "empresa.razao_social":"TECHBIZ FORENSE DIGITAL LTDA",
+            "empresa.status_receita":"ATIVA",
+            "empresa.razao_social1":"TECHBIZ FORENSE DIGITAL SA",
+            "empresa.porte":"DEMAIS EMPRESA",
+            "empresa.total_de_funcionarios":"14",
+            "empresa.quantidade_de_funcionarios_acima_de_5_salarios":"NÃ\\x83ODIVULGADO",
+            "empresa.quantidade_de_funcionarios_abaixo_de_5_salarios":"NÃ\\x83ODIVULGADO"
+
+         "sinapses.telefone":[
+            {
+               "telefone.numero_tel":"+5521980369493",
+               "telefone.operadora":"TIM",
+               "telefone.whatsapp":"Nao"
+            },
+            {
+               "telefone.numero_tel":"+5521980369494",
+               "telefone.operadora":"TIM",
+               "bookmark":"1",
+               "telefone.whatsapp":"Sim"
+            },
+            {
+               "telefone.numero_tel":"+5521981427675",
+               "telefone.operadora":"TIM",
+               "telefone.whatsapp":"Nao"
+            },
+            {
+               "telefone.numero_tel":"+5531991026789",
+               "telefone.operadora":"TIM",
+               "telefone.whatsapp":"Nao"
+            },
+            {
+               "telefone.numero_tel":"+556134688580",
+               "telefone.operadora":"OI"
+            },
+            {
+               "telefone.numero_tel":"+556134688585",
+               "telefone.operadora":"OI"
+            },
+            {
+               "telefone.numero_tel":"+556134688587",
+               "telefone.operadora":"OI"
+            },
+            {
+               "telefone.numero_tel":"+556134688600",
+               "telefone.operadora":"VIVO"
+            },
+            {
+               "telefone.numero_tel":"+5561981824841",
+               "telefone.operadora":"TIM",
+               "telefone.whatsapp":"Nao"
+            },
+            {
+               "telefone.numero_tel":"+5561981824881",
+               "telefone.operadora":"TIM",
+               "telefone.whatsapp":"Nao"
+            }
+         ],
+         "sinapses.location":[
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"21980369493",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"21980369494",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"21981427675",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"31991026789",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"QD CA",
+               "label_default_key":"6134688580",
+               "numero":"0",
+               "complemento":"BL A CENTRO DE ATIVIDADES SL 245",
+               "location.bairro":"SETOR DE HABITACOES INDIVIDUAIS NORTE",
+               "location.cep":"71503501",
+               "location.cidade":"BRASILIA",
+               "location.estado":"DF"
+            },
+            {
+               "location.logradouro":"QD CA",
+               "label_default_key":"6134688585",
+               "numero":"0",
+               "complemento":"BL A CENTRO DE ATIVIDADES SL 245",
+               "location.bairro":"SETOR DE HABITACOES INDIVIDUAIS NORTE",
+               "location.cep":"71503501",
+               "location.cidade":"BRASILIA",
+               "location.estado":"DF"
+            },
+            {
+               "location.logradouro":"QD CA",
+               "label_default_key":"6134688587",
+               "numero":"0",
+               "complemento":"BL A CENTRO DE ATIVIDADES SL 245",
+               "location.bairro":"SETOR DE HABITACOES INDIVIDUAIS NORTE",
+               "location.cep":"71503501",
+               "location.cidade":"BRASILIA",
+               "location.estado":"DF"
+            },
+            {
+               "location.logradouro":"QNM 38 CONJUNTO E LOTE 26",
+               "label_default_key":"6134688600",
+               "numero":"26",
+               "location.bairro":"TAGUATINGA NORTE TAGUATINGA",
+               "location.cep":"72145805",
+               "location.cidade":"BRASILIA",
+               "location.estado":"DF"
+            },
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"61981824841",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"R HELENA",
+               "label_default_key":"61981824881",
+               "numero":"280",
+               "complemento":"CONJ 906 E 907",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04552050",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            },
+            {
+               "location.logradouro":"RUA OLIMPIADAS",
+               "numero":"205",
+               "complemento":"SALA 436",
+               "location.bairro":"VILA OLIMPIA",
+               "location.cep":"04551000",
+               "location.cidade":"SAO PAULO",
+               "location.estado":"SP"
+            }
+         ],
+         "sinapses.email":[
+            {
+               "email.email":"daviren@superig.com.br"
+            }
+         ],
+         "sinapses.pessoa":[
+            {
+               "pessoa.cpf":"013.560.106-10",
+               "pessoa.fullname":"RAFAEL VELASQUEZ SAAVEDRA DA SILVA",
+               "pessoa.cargo_em_sociedade":"SOCIO",
+               "pessoa.participacao":"22",
+               "sinapses.location":[
+                  {
+                     "location.logradouro":"R CANARIO|EDI CISNE BRANCO",
+                     "numero":"917",
+                     "complemento":"AP Apartamento 151",
+                     "location.estado":"SP"
+                  }
+               ],
+               "label_default_key":"socio",
+               "credilink_label":"socio",
+               "reverse":true
+            },
+            {
+               "pessoa.cpf":"037.701.396-07",
+               "pessoa.fullname":"JAIME RODRIGUES BARBOSA NETO",
+               "pessoa.cargo_em_sociedade":"SOCIO ADMINISTRADOR",
+               "pessoa.participacao":"49",
+               "sinapses.location":[
+                  {
+                     "location.logradouro":"AV DAS ACACIAS DA PENISULA",
+                     "numero":"150",
+                     "complemento":"AP 806",
+                     "location.cep":"22776000",
+                     "location.bairro":"BARRA DA TIJUCA",
+                     "location.cidade":"RIO DE JANEIRO",
+                     "location.estado":"RJ"
+                  }
+               ],
+               "label_default_key":"socio",
+               "credilink_label":"socio",
+               "reverse":true
+            },
+            {
+               "pessoa.cpf":"473.224.971-04",
+               "pessoa.fullname":"MARCIO JOSE ROSA GOMES",
+               "pessoa.cargo_em_sociedade":"SOCIO",
+               "pessoa.participacao":"22",
+               "sinapses.location":[
+                  {
+                     "location.logradouro":"R LAURO MULLER",
+                     "numero":"66",
+                     "complemento":"AP 1102",
+                     "location.cep":"22290160",
+                     "location.bairro":"BOTAFOGO",
+                     "location.cidade":"RIO DE JANEIRO",
+                     "location.estado":"RJ"
+                  }
+               ],
+               "label_default_key":"socio",
+               "credilink_label":"socio",
+               "reverse":true
+            },
+            {
+               "pessoa.cpf":"680.003.676-53",
+               "pessoa.fullname":"GIOVANI THIBAU CHRISTOFARO",
+               "pessoa.cargo_em_sociedade":"SOCIO ADMINISTRADOR",
+               "pessoa.participacao":"49",
+               "sinapses.location":[
+                  {
+                     "location.logradouro":"SHTN TR",
+                     "complemento":"LT 02 BL D APT 409P",
+                     "location.cep":"70800210",
+                     "location.bairro":"ASA NORTE",
+                     "location.cidade":"BRASILIA",
+                     "location.estado":"DF"
+                  }
+               ],
+               "label_default_key":"socio",
+               "credilink_label":"socio",
+               "reverse":true
+            },
+            {
+               "pessoa.cpf":"844.216.301-87",
+               "pessoa.fullname":"LUCIANA BISPO DA SILVA GALAO",
+               "pessoa.cargo_em_sociedade":"SOCIO",
+               "pessoa.participacao":"22",
+               "label_default_key":"socio",
+               "credilink_label":"socio",
+               "reverse":true
+            }
+         ]
+      }
+      ],
+   }
+]

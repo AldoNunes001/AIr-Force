@@ -1,0 +1,355 @@
+[
+    {
+        "sinapses.pessoa": [
+            {
+                "sinapses.candidato": [
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 10000.0,
+                                "'data'": "07/10/2020",
+                                "'documento'": "XX",
+                                "'recibo'": "101201360011RJ000003E",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de pessoas f\u00edsicas",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "14/12/2020",
+                                "'vinculo.rotulo'": "XX"
+                            },
+                            {
+                                "'valor'": 1000.0,
+                                "'descricao'": "CESS\u00c3O DE IM\u00d3VEL",
+                                "'data'": "01/10/2020",
+                                "'recibo'": "101201360011RJ000004E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de pessoas f\u00edsicas",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "14/12/2020",
+                                "'natureza_estimavel'": "Loca\u00e7\u00e3o/cess\u00e3o de bens im\u00f3veis"
+                            }
+                        ],
+                        "'pessoa.cpf'": "22222222222",
+                        "'pessoa.fullname'": "Jocasta Alambique Zaffir",
+                        "'candidato.ano_da_eleicao'": 2020,
+                        "'candidato.tipo_da_eleicao'": "ORDIN\u00c1RIA",
+                        "'candidato.descricao_da_eleicao'": "Elei\u00e7\u00f5es Municipais 2020",
+                        "'candidato.data_da_eleicao'": "15/11/2020",
+                        "'candidato.unidade_eleitoral'": "RIO DE JANEIRO",
+                        "'candidato.turno_da_eleicao'": 1,
+                        "'candidato.cargo_eleitoral'": "Vereador",
+                        "'candidato.numero_do_candidato'": 2222,
+                        "'candidato.partido_eleitoral'": "Partido B"
+                    }
+                ],
+                "'pessoa.cpf'": "11111111111",
+                "'pessoa.fullname'": "Jose Qual Couve Ira"
+            }
+        ]
+    },
+    {
+        "sinapses.candidato": [
+            {
+                "sinapses.empresa": [
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 10000000.0,
+                                "'data'": "24/08/2022",
+                                "'documento'": "550452000412222",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.rotulo'": "550452000412222",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 2650000.0,
+                                "'descricao'": "ADESIVO PERFURADO MEDINDO 40X20CM\u00b7 4/0 CORES",
+                                "'data'": "18/10/2022",
+                                "'recibo'": "000220100000BR000291E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por adesivos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 1913985.0,
+                                "'descricao'": "GRU RESSARCIMENTO DESPESAS COM TRANSPORTE OFICIAL",
+                                "'data'": "26/10/2022",
+                                "'recibo'": "000220100000BR000328E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Despesas com transporte ou deslocamento",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 1387700.0,
+                                "'data'": "12/09/2022",
+                                "'recibo'": "000220100000BR000174E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 1386000.0,
+                                "'descricao'": "ADESIVO PERFURADO 70X33CM",
+                                "'data'": "07/10/2022",
+                                "'recibo'": "000220100000BR000281E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por materiais impressos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 921255.23,
+                                "'descricao'": "GRU RESSARCIMENTO DE DESPESAS TRANSPORTE OFICIAL",
+                                "'data'": "07/11/2022",
+                                "'recibo'": "000220100000BR000325E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Despesas com transporte ou deslocamento",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 900000.0,
+                                "'descricao'": "ADESIVO PERFURADO/MEDINDO 70X33 CM 4/0 CORES",
+                                "'data'": "12/09/2022",
+                                "'recibo'": "000220100000BR000174E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por materiais impressos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 900000.0,
+                                "'descricao'": "ADESIVOS PERFURADOS 33X70CM",
+                                "'data'": "26/08/2022",
+                                "'recibo'": "000220100000BR000170E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por adesivos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 900000.0,
+                                "'descricao'": "ADESIVO PERFURADO VINIL PARA PARA-BRISA",
+                                "'data'": "18/08/2022",
+                                "'recibo'": "000220100000BR000128E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por materiais impressos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 900000.0,
+                                "'descricao'": "ADESIVO PERFURADO VINIL PARA PARA-BRISA",
+                                "'data'": "18/08/2022",
+                                "'recibo'": "000220100000BR000127E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO ESPECIAL",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Publicidade por materiais impressos",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 840684.52,
+                                "'descricao'": "GRU RESSARCIMENTO DE DESPESAS TRANSPORTE OFICIAL",
+                                "'data'": "13/10/2022",
+                                "'recibo'": "000220100000BR000327E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Despesas com transporte ou deslocamento",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 767971.04,
+                                "'descricao'": "GRU RESSARCIMENTO DESPESAS COM TRANSPORTE OFICIAL",
+                                "'data'": "06/10/2022",
+                                "'recibo'": "000220100000BR000329E",
+                                "'especie'": "Estimado",
+                                "'natureza'": "ESTIM\u00c1VEL",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'natureza_estimavel'": "Despesas com transporte ou deslocamento",
+                                "'vinculo.reverso'": true
+                            }
+                        ],
+                        "'empresa.cnpj'": "11111111111111",
+                        "'empresa.razao_social'": "PARTIDO A",
+                        "'empresa.razao_social1'": "DIRE\u00c7\u00c3O NACIONAL",
+                        "'empresa.cnae'": "Atividades de organiza\u00e7\u00f5es pol\u00edticas"
+                    },
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 1000000.0,
+                                "'data'": "09/09/2022",
+                                "'documento'": "550452000105976",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.rotulo'": "550452000105976",
+                                "'vinculo.reverso'": true
+                            },
+                            {
+                                "'valor'": 1000000.0,
+                                "'data'": "07/10/2022",
+                                "'documento'": "550452000041610",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de partido pol\u00edtico",
+                                "'fonte'": "FUNDO PARTIDARIO",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.rotulo'": "550452000041610",
+                                "'vinculo.reverso'": true
+                            }
+                        ],
+                        "'empresa.cnpj'": "22222222222222",
+                        "'empresa.razao_social'": "Partido C",
+                        "'empresa.razao_social1'": "DIRE\u00c7\u00c3O NACIONAL",
+                        "'empresa.cnae'": "Atividades de organiza\u00e7\u00f5es pol\u00edticas"
+                    }
+                ],
+                "'pessoa.cpf'": "11111111111",
+                "'pessoa.fullname'": "Jose Qual Couve Ira",
+                "'candidato.ano_da_eleicao'": 2022,
+                "'candidato.tipo_da_eleicao'": "ORDIN\u00c1RIA",
+                "'candidato.descricao_da_eleicao'": "Elei\u00e7\u00e3o Geral Federal 2022",
+                "'candidato.data_da_eleicao'": "02/10/2022",
+                "'candidato.unidade_eleitoral'": "BRASIL",
+                "'candidato.turno_da_eleicao'": 2,
+                "'candidato.cargo_eleitoral'": "Presidente",
+                "'candidato.numero_do_candidato'": 22,
+                "'candidato.partido_eleitoral'": "Partido Liberal",
+                "sinapses.pessoa": [
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 3000000.0,
+                                "'data'": "10/10/2022",
+                                "'documento'": "34680867",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de pessoas f\u00edsicas",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.rotulo'": "34680867",
+                                "'vinculo.reverso'": true
+                            }
+                        ],
+                        "'pessoa.cpf'": "33333333333",
+                        "'pessoa.fullname'": "Terezinha de AbreCampos Tadeu"
+                    },
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 1800000.0,
+                                "'data'": "13/10/2022",
+                                "'documento'": "33693011",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de pessoas f\u00edsicas",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "06/02/2023",
+                                "'vinculo.rotulo'": "33693011",
+                                "'vinculo.reverso'": true
+                            }
+                        ],
+                        "'pessoa.cpf'": "44444444444",
+                        "'pessoa.fullname'": "Jairinho de Matuza Sjyld"
+                    },
+                ],
+            },
+            {
+                "sinapses.empresa": [
+                    {
+                        "sinapses.vinculo": [
+                            {
+                                "'valor'": 1566812.0,
+                                "'data'": "26/10/2018",
+                                "'documento'": "227300000000000",
+                                "'especie'": "Transfer\u00eancia eletr\u00f4nica",
+                                "'natureza'": "FINANCEIRO",
+                                "'origem'": "Recursos de Financiamento Coletivo",
+                                "'fonte'": "OUTROS RECURSOS",
+                                "'tipo'": "FINAL",
+                                "'data_cadastro'": "21/11/2018",
+                                "'vinculo.rotulo'": "227300000000000",
+                                "'vinculo.reverso'": true
+                            }
+                        ],
+                        "'empresa.cnpj'": "55555555555555",
+                        "'empresa.razao_social'": "Latinhas E Enlatados Abrangentes LTDA",
+                        "'empresa.cnae'": "Tratamento de dados, provedores de servi\u00e7os de aplica\u00e7\u00e3o e servi\u00e7os de hospedagem na Internet"
+                    }
+                ],
+                "'pessoa.cpf'": "11111111111",
+                "'pessoa.fullname'": "Jose Qual Couve Ira",
+                "'candidato.ano_da_eleicao'": 2018,
+                "'candidato.tipo_da_eleicao'": "ORDIN\u00c1RIA",
+                "'candidato.descricao_da_eleicao'": "Elei\u00e7\u00e3o Geral Federal 2018",
+                "'candidato.data_da_eleicao'": "07/10/2018",
+                "'candidato.unidade_eleitoral'": "BRASIL",
+                "'candidato.turno_da_eleicao'": 2,
+                "'candidato.cargo_eleitoral'": "Presidente",
+                "'candidato.numero_do_candidato'": 1111,
+                "'candidato.partido_eleitoral'": "Partido A",
+                "notes": "Resultado limitado nos 50 maiores valores"
+            }
+        ]
+    }
+]
