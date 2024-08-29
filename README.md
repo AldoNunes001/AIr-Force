@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Coloque o arquivo de entrada que deseja processar na pasta `data` do projeto.
 
 ### 3. **Configurar o Caminho do Arquivo de Entrada**
-Abra o arquivo zExtractor.py e defina a variável input_file_path com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta data. Por exemplo:
+Abra o arquivo `zExtractor.py` e defina a variável `input_file_path` com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta `data`. Por exemplo:
 
 ```python
 input_file_path = "data/seu_arquivo_de_entrada.ext"
