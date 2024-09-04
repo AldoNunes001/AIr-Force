@@ -173,7 +173,7 @@ OPENAI_API_KEY=sk-WmwqA1Gn6e3yLISvDcINqbf66zHtVZZvIwXXmjfF5ETlNoE2ftpor
 ```
 
 ### 3. **Criar o Banco de Dados (se necessário)**
-Antes de executar o código, verifique se o banco de dados vetorial já existe. Caso contrário, você pode criá-lo rodando o script `criar_banco.p`:
+Antes de executar o código, verifique se o banco de dados vetorial já existe. Caso contrário, você pode criá-lo rodando o script `criar_banco.py`:
 
 ```bash
 python criar_banco.py
