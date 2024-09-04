@@ -8,7 +8,8 @@ Nossa solução adota uma abordagem inovadora utilizando "Large Language Models"
 
 ### Componentes da Solução
 A solução é centrada em um LLM que executa a seguinte tarefa principal:
-1. **Identificação e Extração de Entidades:** O LLM analisa o conteúdo dos dados de entrada, independentemente do formato (HTML, CSV, JSON, etc.), para identificar entidades e campos importantes e extrair suas informações, estruturando as entidades identificadas em um formato JSON padronizado, sendo capaz de aninhar entidades ou atributos dentro de outros quando contextualmente fizer sentido.
+1. **Identificação e Extração de Entidades:** O LLM analisa o conteúdo dos dados de entrada, independentemente do formato (HTML, CSV, JSON, etc.), para identificar entidades e campos importantes e extrair suas informações, estruturando as entidades identificadas em um formato JSON estruturado, sendo capaz de aninhar entidades ou atributos dentro de outros quando contextualmente fizer sentido.
+2. **Padronização de Nomes (Busca Vetorial):** Após a extração dos dados, a solução realiza uma busca por similaridade em um banco de dados vetorial. Esse banco contém os nomes corretos de entidades e atributos, garantindo que a saída JSON gerada pelo LLM seja padronizada conforme os termos corretos encontrados no banco. Com base nos resultados da busca vetorial, os nomes das entidades e atributos extraídos pelo LLM são substituídos pelos nomes corretos, resultando em um JSON final padronizado e em conformidade com o banco de dados de referência.
 
 ### Principais Benefícios da Abordagem
 1. **Flexibilidade e Escalabilidade:** A utilização de LLMs permite que a solução se adapte a uma vasta gama de formatos de entrada, sem necessidade de ajustes manuais para cada novo tipo de dado.
@@ -32,7 +33,7 @@ Ao receber uma entrada, o LLM gera uma saída JSON estruturada. Por exemplo, par
 }
 ```
 
-## Como testar
+## Como testar (Versão Estável - SEM Banco de Dados)
 Para testar o código, siga as etapas abaixo:
 
 ### 1. **Instalação de Dependências**
@@ -52,25 +53,88 @@ Se você preferir usar pip, pode instalar as dependências diretamente a partir 
 pip install -r requirements.txt
 ```
 
-### 2. **Preparar o Arquivo de Entrada**
+### 2. **Configurando Arquivo `.env`**
+Crie um arquivo `.env`na raiz do projeto e adicione sua OpenAI API Key. Exemplo:
+
+```bash
+OPENAI_API_KEY=sk-WmwqA1Gn6e3yLISvDcINqbf66zHtVZZvIwXXmjfF5ETlNoE2ftpor
+```
+
+### 3. **Preparar o Arquivo de Entrada**
 Coloque o arquivo de entrada que deseja processar na pasta `data` do projeto.
 
-### 3. **Configurar o Caminho do Arquivo de Entrada**
+### 4. **Configurar o Caminho do Arquivo de Entrada**
 Abra o arquivo `zExtractor.py` e defina a variável `input_file_path` com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta `data`. Por exemplo:
 
 ```python
 input_file_path = "data/seu_arquivo_de_entrada.ext"
 ```
 
-### 4. **Executar o Código**
+### 5. **Executar o Código**
 Com as dependências instaladas e o caminho do arquivo de entrada configurado, execute o código rodando o seguinte comando:
 
 ```python
 python zExtractor.py
 ```
 
-### 5. **Verificar o Resultado**
+### 6. **Verificar o Resultado**
 O resultado será gerado na pasta `output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `_output.json`. Por exemplo, se o arquivo de entrada se chamar `seu_arquivo_de_entrada.ext`, o resultado estará em `output/seu_arquivo_de_entrada_output.json`.
+
+
+## Como testar (Em Desenvolvimento - COM Banco de Dados)
+Para testar o código, siga as etapas abaixo:
+
+### 1. **Instalação de Dependências**
+Este projeto usa Python e as dependências são gerenciadas com o Poetry. Você pode instalar as dependências de duas maneiras:
+
+#### Usando Poetry
+Se você já tem o Poetry instalado, basta rodar o comando abaixo no diretório do projeto para instalar todas as dependências:
+
+```bash
+poetry install
+```
+
+#### Usando pip e requirements.txt
+Se você preferir usar pip, pode instalar as dependências diretamente a partir do arquivo requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. **Configurando Arquivo `.env`**
+Crie um arquivo `.env`na raiz do projeto e adicione sua OpenAI API Key. Exemplo:
+
+```bash
+OPENAI_API_KEY=sk-WmwqA1Gn6e3yLISvDcINqbf66zHtVZZvIwXXmjfF5ETlNoE2ftpor
+```
+
+### 3. **Criar o Banco de Dados (se necessário)**
+Antes de executar o código, verifique se o banco de dados vetorial já existe. Caso contrário, você pode criá-lo rodando o script `criar_banco.p`:
+
+```bash
+python criar_banco.py
+```
+
+### 4. **Preparar o Arquivo de Entrada**
+Coloque o arquivo de entrada que deseja processar na pasta `data` do projeto.
+
+### 5. **Configurar o Caminho do Arquivo de Entrada**
+Abra o arquivo `zExtractor_DB.py` e defina a variável `input_file_path` com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta `data`. Por exemplo:
+
+```python
+input_file_path = "data/seu_arquivo_de_entrada.ext"
+```
+
+### 6. **Executar o Código**
+Com as dependências instaladas e o caminho do arquivo de entrada configurado, execute o código rodando o seguinte comando:
+
+```python
+python zExtractor_DB.py
+```
+
+### 6. **Verificar o Resultado**
+O resultado será gerado na pasta `output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `_output.json`. Por exemplo, se o arquivo de entrada se chamar `seu_arquivo_de_entrada.ext`, o resultado estará em `output/seu_arquivo_de_entrada_output.json`.
+
 
 ## Integrantes da Equipe
 1. Aldo Nunes - https://github.com/AldoNunes001
