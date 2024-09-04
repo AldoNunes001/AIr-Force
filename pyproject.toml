@@ -12,6 +12,7 @@ langchain-openai = "^0.1.22"
 langchain-community = "^0.2.12"
 unstructured = {extras = ["csv"], version = "^0.15.7"}
 python-dotenv = "^1.0.1"
+faiss-cpu = "^1.8.0.post1"
 
 
 [tool.poetry.group.dev.dependencies]

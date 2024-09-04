@@ -16,10 +16,10 @@ load_dotenv()
 base_model = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 #################### CAMINHO DO ARQUIVO DE ENTRADA (ALTERE O CAMINHO AQUI) ####################
-input_file_path = "./data/dados_html1.htm"
+# input_file_path = "./data/dados_html1.htm"
 # input_file_path = "./data/dados_html2.htm"
 # input_file_path = "./data/dados_json.json"
-# input_file_path = "./data/dados_xml.xml"
+input_file_path = "./data/dados_xml.xml"
 # input_file_path = "./data/dados_csv.csv"
 ###############################################################################################
 

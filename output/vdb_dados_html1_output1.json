@@ -1,0 +1,81 @@
+{
+    "sinapses.MultiMedia;multi_media.title;Nome dado ao conteúdo multimídia": "Jucesp Online: Pesquisa de Empresas - Resultados",
+    "sinapses.Alerta;alerta.descritor;Categoriza o alerta": "Pesquisa no banco de dados da Junta Comercial do Estado de São Paulo.",
+    "sinapses.Advanced_Search;advanced_search.graph_search;Foca a busca no grafo": {
+        " por exemplo": "Techbiz",
+        " expandindo os resultados.": {
+            "sinapses.Tag;tag.quantity;Contador dos arquivos vinculados à tag": 5,
+            "sinapses.Objeto;objeto.min_preco_ml;No caso de uma lista de resultados para o objeto (Api MercadoLivre)": [
+                {
+                    "sinapses.Empresa;empresa.nire;Identificador único para o registro estadual da empresa": "35218345517",
+                    "sinapses.Empresa_Jucea;empresa_jucea.cnpj;Cadastro Nacional da Pessoa Jurídica da empresa": "TECHBIZ FORENSE DIGITAL LTDA.",
+                    "sinapses.Imovel;imovel.endereco_completo;Logradouro": "SAO PAULO"
+                },
+                {
+                    "sinapses.Empresa;empresa.nire;Identificador único para o registro estadual da empresa": "35232419425",
+                    "sinapses.Empresa_Jucea;empresa_jucea.cnpj;Cadastro Nacional da Pessoa Jurídica da empresa": "TECHBIZ CONSULTORIA EM INTELIGENCIA EMPRESARIAL LTDA",
+                    "sinapses.Imovel;imovel.endereco_completo;Logradouro": "SAO CAETANO DO SUL"
+                },
+                {
+                    "sinapses.Empresa;empresa.nire;Identificador único para o registro estadual da empresa": "35263748889",
+                    "sinapses.Empresa_Jucea;empresa_jucea.cnpj;Cadastro Nacional da Pessoa Jurídica da empresa": "TECHBIZ CONTABIL LTDA",
+                    "sinapses.Imovel;imovel.endereco_completo;Logradouro": "SAO PAULO"
+                },
+                {
+                    "sinapses.Empresa;empresa.nire;Identificador único para o registro estadual da empresa": "35300366301",
+                    "sinapses.Empresa_Jucea;empresa_jucea.cnpj;Cadastro Nacional da Pessoa Jurídica da empresa": "TECHBIZ FORENSE DIGITAL S.A.",
+                    "sinapses.Imovel;imovel.endereco_completo;Logradouro": "SAO PAULO"
+                },
+                {
+                    "sinapses.Empresa;empresa.nire;Identificador único para o registro estadual da empresa": "35630211956",
+                    "sinapses.Empresa_Jucea;empresa_jucea.cnpj;Cadastro Nacional da Pessoa Jurídica da empresa": "TECHBIZ CONSULTORIA EM INTELIGENCIA EMPRESARIAL LTDA",
+                    "sinapses.Imovel;imovel.endereco_completo;Logradouro": "SAO PAULO"
+                }
+            ]
+        }
+    },
+    "sinapses.Viagem;viagem.subfuncao;Detalhamento da função": {
+        " explorando conexões entre entidades.": [
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Pesquisar empresas",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.jucesponline.sp.gov.br/Default.aspx"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Emitir DARE",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.jucesponline.sp.gov.br/Restricted/ComprarCreditos.aspx"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Utilizar DARE",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.jucesponline.sp.gov.br/Restricted/ValidarCreditos.aspx"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Entenda nossos serviços online",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.jucesponline.sp.gov.br/Faq.aspx"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Consultar autenticidade de documentos",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.jucesponline.sp.gov.br/Valida_Ficha.aspx"
+            }
+        ]
+    },
+    "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": {
+        " explorando conexões entre entidades.": [
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Ouvidoria",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "https://www.ouvidoria.sp.gov.br/Portal/Default.aspx"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "Transparência",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "http://www.transparencia.sp.gov.br/"
+            },
+            {
+                "sinapses.vinculo;vinculo.estilo;Estilo visual do vínculo": "SIC",
+                "sinapses.URL;url.url;Endereço completo de um recurso na web": "http://www.sic.sp.gov.br/"
+            }
+        ],
+        " como sólido ou pontilhado": {
+            "sinapses.URL;url.url;Endereço completo de um recurso na web": "./input_dados_files/logo-rodape-governo-do-estado-sp.png",
+            "sinapses.Alerta;alerta.descritor;Categoriza o alerta": "Logo"
+        }
+    }
+}
